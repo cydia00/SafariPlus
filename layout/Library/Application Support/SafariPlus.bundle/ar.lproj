@@ -1,0 +1,131 @@
+/* Root Page*/
+
+"عام" = "General";
+"تفعيل الاضافة" = "Action Addons";
+"إضافات الايماءات" = "Gesture Addons";
+"إضافات اخرى" = "إضافات أخرى";
+"اعدادات الالوان" = "Color Settings";
+"مصدر الكود" = "Source Code";
+
+/* الاعدادات العامة */
+
+"HTTPS_EVERYWHERE_FOOTER" = "على الصعيد العالمي يفرض HTTPS بروتوكول.\ملاحظة: ممكن لاتفتح المواقع في بعض الاحيان لأنها لاتدعم HTTPS.";
+"HTTPS_EVERYWHERE" = "HTTPS في كل مكان";
+
+"OPEN_IN_NEW_TAB_FOOTER" = "يضيف الخيار' فتح في علامة تبويب جديدة 'آخر إلى القائمة التي تظهر عند الضغط على ارتباط طويل الظغط.\مجموعة 'فتح الارتباطات 'في إعدادات سفاري' في الخلفية 'أن كل الخيارات المتاحة عند الضغط على وصلة طويلة.";
+"OPEN_IN_NEW_TAB" = "'فتح في علامة تبويب جديدة' Option";
+
+"UPLOAD_ANY_FILE_FOOTER" = "إضافة خيار جديد إلى قائمة رفع المستندات, هذا يتيح لك اختيار أي ملف من جذر جهازك.\ملاحظة: يؤثر هذا الخيار على أي متصفح يستخدم webkit (مثال. قوقل كروم), ليس فقط ع سفاري.";
+"UPLOAD_ANY_FILE" = "رفع اي ملف";
+
+"DESKTOP_SWITCH_FOOTER" = "الاضافات زر تغيير على علامة التبويب، الذي يمكنك استخدامه للتبديل على الصعيد العالمي بين الجوال / موقع سطح المكتب.";
+"DESKTOP_SWITCH_LABEL" = "التبديل لوضع سطح المكتب";
+
+"LONG_PRESS_SUGGESTIONS_FOOTER" = "الضغط لمدة طويلة في البحث / اقتراحات URL إدراجها في شريط عنوان URL.";
+"LONG_PRESS_SUGGESTIONS" = "اقتراحات بالضغط لمدة طويلة";
+
+/* إعدادات الإجراء */
+
+"NORMAL_MODE" = "وضع التصفح العادي";
+"PRIVATE_MODE" = "وضع التصفح الخاص";
+"TO" = "إلى...";
+"ON" = "على...";
+"FOR" = "لـ...";
+
+"CHANGE_MODE_ON" = "تغيير وضع التصفح...";
+
+"LAUNCH_MODE_FOOTER" = "تغييرات على طريقة التصفح محددة، عندما يتم تشغيل سفاري.";
+"LAUNCH_MODE_LABEL" = "بدء التطبيق";
+
+"RESUME_FOOTER" = "تغييرات محددة للتصفح وضع, عند استئناف سفاري.";
+"RESUME_LABEL" = "استئناف التطبيق";
+
+"EXTERNAL_URL_FOOTER" = "تغييرات محددة بوضع التصفح
+, عند عنوان URL خارجي (من تطبيق آخر) فتح مع سفاري.";
+"EXTERNAL_URL_LABEL" = "تم فتح الرابط الخارجي";
+
+"AUTO_CLOSE_TABS_FOOTER" = "إغلاق علامات تبويب وضع التصفح المحدد, عند حدوث حالة معينة.";
+"AUTO_CLOSE_TABS_LABEL" = "تلقائي-اغلاق علامات التبويب";
+"SAFARI_CLOSED" = "اغلاق سفاري";
+"SAFARI_MINIMIZED" = "تصغير سفاري";
+
+"ACTIVE_MODE" = "وضع التصفح نشط";
+"BOTH_MODES" = "كلا أوضاع التصفح";
+
+/*اعدادات المستخدم */
+
+"ACTION" = "عمل";
+
+"URL_BAR_GESTURES_LABEL" = "شريط العنوان URL";
+
+"SWIPE_LEFT_GESTURE_FOOTER" = "فّعل يقوم بتنفيذ الإجراء المحدد عندما يتم تمرير شريط عنوان URL ع اليسار.";
+"SWIPE_LEFT_GESTURE" = "إسحب بإصبعك ع اليسار";
+
+"SWIPE_RIGHT_GESTURE_FOOTER" = "يقوم بتنفيذ الإجراء المحدد عندما يتم تمرير شريط عنوان URL إلى اليمين.";
+"SWIPE_RIGHT_GESTURE" = "إسحب ع اليمين";
+
+"SWIPE_DOWN_GESTURE_FOOTER" = "يقوم بتنفيذ الإجراء المحدد عندما يتم تمرير شريط عنوان URL إلى أسفل.";
+"SWIPE_DOWN_GESTURE" = "اسحب لأسفل";
+
+"CLOSE_ACTIVE_TAB" = "قم بإغلاق علامة التبويب النشطة";
+"OPEN_NEW_TAB" = "افتح علامة تبويب جديدة";
+"DUPLICATE_ACTIVE_TAB" = "تفعيل تكرار علامة التبويب";
+"CLOSE_ALL_TABS" = "إغلاق كافة علامات التبويب وضع التصفح";
+"SWITCH_MODE" = "تبديل وضع التصفح";
+
+"BACKGROUND" = "علامة التبويب المكررة في الخلفية";
+
+/* إعدادات أخرى */
+
+"FULLSCREEN_SCROLLING_FOOTER" = "إخفاء الشريط العلوي بالكامل أثناء التمرير لأسفل.";
+"FULLSCREEN_SCROLLING" = "التمرير لملء الشاشة";
+"DISABLE_PRIVATE_MODE_FOOTER" = "تعطيل وضع التصفح الخاص وإزالة 'تصفح الخاص' زر. (ميزة الاسهم المخفية
+)";
+"DISABLE_PRIVATE_MODE" = "تعطيل التصفح الخاص بالكامل";
+
+/* إعدادات اللون */
+
+"APP_TINT_COLOR_ENABLED" = "لون التطبيق";
+"APP_TINT_COLOR" = "تطبيق اللون...";
+
+"TOP_BAR_COLOR_ENABLED" = "لون الشريط العلوي";
+"TOP_BAR_COLOR" = "الشريط العلوي لون...";
+
+"URL_FONT_COLOR_ENABLED" = "لون خط URL";
+"URL_FONT_COLOR" = "لون خط URL...";
+
+"PROGRESS_BAR_COLOR_ENABLED" = "لون شريط التقدم";
+"PROGRESS_BAR_COLOR" = "لون شريط التقدم...";
+
+"TAB_TITLE_COLOR_ENABLED" = "لون علامة تبويب العنوان";
+"TAB_TITLE_COLOR" = "Tab Title Color...";
+
+"RELOAD_BUTTON_COLOR_ENABLED" = "لون زر تحديث";
+"RELOAD_BUTTON_COLOR" = "لون زر تحديث...";
+
+"LOCK_ICON_COLOR_ENABLED" = "قفل لون الايقونة";
+"LOCK_ICON_COLOR" = "لون رمز القفل...";
+
+"BOTTOM_BAR_COLOR_ENABLED" = "لون الشريط السفلي";
+"BOTTOM_BAR_COLOR" = "لون الشريط السفلي...";
+"BOTTOM_BAR_FOOTER" = "ملاحظة: هذا الخيار يعمل كراش لـkinda .";
+
+"WHITE" = "ابيض";
+"BLACK" = "أسود";
+
+/* تعريب رؤوف بونة */
+"CREDITS" = "@Anime_2016";
+"ICONS" = "ايقونات";
+"DESKTOP_MODE_BUTTON" = "'وضع سطح المكتب' زر";
+"LOCAL_FILE_BUTTON" = "'ملف محلي' زر";
+"PICKER_FILE_ENTRY" = "منتقي ملف: ايقونة الملف";
+"PICKER_DIRECTORY_ENTRY" = "منتقي الملفات: رمز الدليل";
+"STOLEN_FROM" = "رمز الترجمة سرقت من";
+"PICKER_INSPIRED" = "ملف المجمع مستوحى من";
+
+/* في التطبيق */
+"OPEN_IN_NEW_TAB_OPTION" = "فتح في علامة تبويب جديدة";
+"LOCAL_FILE" = "ملف محلي";
+
+/* اختيار ملف */
+"CANCEL" = "إلغاء";
